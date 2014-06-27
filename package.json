@@ -1,6 +1,6 @@
 {
   "name": "seneca-web-statsd",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Seneca Web plugin that adds statsdKey to each request",
   "main": "lib/seneca-web-statsd.js",
   "scripts": {
